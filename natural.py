@@ -22,7 +22,7 @@ def DIV_NN_N(x, y):
         x = SUB_NN_N(x, y)
         count += 1
     return count
-
+ 
 
 def MUL_Nk_N(k, list0):
     # Пекло Елизавета
